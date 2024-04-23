@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659247485127",
+    "project_id": "langer-1d13b",
+    "storage_bucket": "langer-1d13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659247485127:android:46eb86edb30c572f93aee2",
+        "android_client_info": {
+          "package_name": "com.example.langer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP9vk4rBYwIAZeAI1aaysJo7EFchJtJx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
